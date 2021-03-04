@@ -1,0 +1,51 @@
+@media screen and (max-width: 1200px) {
+    .homebanner img {
+        width: 100%;
+    }
+
+    /*promotebanner*/
+    .promotebanner {
+        top: 0;
+    }
+    .promotebanner a img {
+        width: 100%;
+    }
+    /*end promotebanner*/
+
+    /*promo*/
+    .homepromo img {
+        width: 160px;
+        height: 160px;
+    }
+
+    .homepromo label {
+        top: 167px;
+    }
+
+    .item2020 a.vertion2020 label {
+        position: static;
+        margin: 0 10px 5px;
+        display: inline-block;
+        font-weight: unset;
+    }
+
+    .homepromo img {
+        width: 160px;
+        height: 160px;
+    }
+
+    .homepromo img {
+        width: 160px;
+        height: 160px;
+    }
+    .homepromo .promo p {
+        width: 145px;
+    }
+    /*end promo*/
+}
+
+@media screen and (max-width: 1024px) {
+    .homenews h2 a {
+        font-size: 12px;
+    }
+}
