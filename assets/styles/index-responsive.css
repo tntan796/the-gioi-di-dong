@@ -49,6 +49,23 @@
     }
     /*End navigate cate42*/
 
+    /*Home product*/
+    .homeproduct li {
+        width: 19.9%;
+    }
+    .homeproduct li.feature {
+        width: 39.9%;
+    }
+
+    .homeproduct li .promo p, .homepromo .promo p {
+        width: 145px;
+    }
+    .homeproduct li.feature img {
+        width: 100%;
+        height: auto;
+    }
+    /*End Home product*/
+
 }
 
 @media screen and (max-width: 1024px) {
