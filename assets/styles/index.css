@@ -1007,3 +1007,17 @@ ul, ol {
     vertical-align: middle;
 }
 /*End home product*/
+
+/*navigate cate 44*/
+.navigat.cate44 {
+    background-image: url(/assets/images/background/LAPTOP-v2.png);
+    height: 40px;
+}
+/*End navigate cate 44*/
+
+
+/*Home product 2*/
+.homeproduct.homepromo.owl-carousel .owl-wrapper {
+    display: flex !important;
+}
+/*End Home product 2*/
