@@ -42,6 +42,13 @@
         width: 145px;
     }
     /*end promo*/
+
+    /*navigate cate42*/
+    .navigat a {
+        padding: 14px 5px;
+    }
+    /*End navigate cate42*/
+
 }
 
 @media screen and (max-width: 1024px) {

@@ -767,3 +767,66 @@ input[type="hidden" i] {
     *display: inline;
 }
 /*end promo*/
+
+
+/*navigate cat42*/
+.navigat {
+    display: block;
+    overflow: hidden;
+    background: #fff;
+}
+.navigat {
+    background-image: url(/assets/images/background/km-hot.png);
+    height: 78px;
+    background-color: transparent;
+    background-size: auto auto;
+    position: relative;
+}
+
+.navigat.cate42 {
+    background-image: url(/assets/images/background/DT-v2.png);
+    height: 40px;
+}
+
+.navigat h2 {
+    float: left;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.navigat h2 {
+    display: none;
+}
+
+.navigat div {
+    float: right;
+    overflow: hidden;
+}
+
+.navigat a {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #288ad6;
+    padding: 14px 10px;
+}
+
+.navigat a {
+    padding-top: 15px;
+    color: #fff;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.navigat a:hover {
+    text-decoration: underline;
+    color: #288ad6;
+}
+
+.navigat a:hover {
+    color: #fff;
+}
+/*End navigate cat42*/
